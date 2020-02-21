@@ -1,0 +1,11 @@
+D:\Documentos\C#\FileAndFileInfo\FileAndFileInfo\bin\Debug\netcoreapp3.0\FileAndFileInfo.exe
+D:\Documentos\C#\FileAndFileInfo\FileAndFileInfo\bin\Debug\netcoreapp3.0\FileAndFileInfo.deps.json
+D:\Documentos\C#\FileAndFileInfo\FileAndFileInfo\bin\Debug\netcoreapp3.0\FileAndFileInfo.runtimeconfig.json
+D:\Documentos\C#\FileAndFileInfo\FileAndFileInfo\bin\Debug\netcoreapp3.0\FileAndFileInfo.runtimeconfig.dev.json
+D:\Documentos\C#\FileAndFileInfo\FileAndFileInfo\bin\Debug\netcoreapp3.0\FileAndFileInfo.dll
+D:\Documentos\C#\FileAndFileInfo\FileAndFileInfo\bin\Debug\netcoreapp3.0\FileAndFileInfo.pdb
+D:\Documentos\C#\FileAndFileInfo\FileAndFileInfo\obj\Debug\netcoreapp3.0\FileAndFileInfo.csprojAssemblyReference.cache
+D:\Documentos\C#\FileAndFileInfo\FileAndFileInfo\obj\Debug\netcoreapp3.0\FileAndFileInfo.AssemblyInfoInputs.cache
+D:\Documentos\C#\FileAndFileInfo\FileAndFileInfo\obj\Debug\netcoreapp3.0\FileAndFileInfo.AssemblyInfo.cs
+D:\Documentos\C#\FileAndFileInfo\FileAndFileInfo\obj\Debug\netcoreapp3.0\FileAndFileInfo.dll
+D:\Documentos\C#\FileAndFileInfo\FileAndFileInfo\obj\Debug\netcoreapp3.0\FileAndFileInfo.pdb
